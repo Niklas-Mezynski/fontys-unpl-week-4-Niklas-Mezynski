@@ -1,6 +1,7 @@
 #ifndef _ARRAY_DATA_STORE_H_
 #define _ARRAY_DATA_STORE_H_
 
+#include <stdbool.h>
 /* pre : n>0
    post: an in-memory data storage for n strings created
 */
